@@ -1,6 +1,4 @@
 # obejct-detection
-I trained FasterRcnn using pytorch of car dataset from kaggle https://www.kaggle.com/datasets/sshikamaru/car-object-detection
-
-
-https://user-images.githubusercontent.com/121031950/223155610-6f4d31c0-fa4a-435c-a11c-ca38776c3f94.mp4
-
+- I trained FasterRcnn using pytorch of car dataset from kaggle https://www.kaggle.com/datasets/sshikamaru/car-object-detection
+- here you can a samll testing video 
+https://drive.google.com/drive/folders/10lbq1zl9ay28ESvu6gw-dGaO39AFkIHE?usp=share_link
